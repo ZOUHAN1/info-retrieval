@@ -1,0 +1,7 @@
+======================
+args: Namespace(qa_path='../data/NQ/train_neg5.json', doc_path='../data/NQ/docs.json', mem_data_path='../data/NQ/mem_3.json', mem_data_path2='', candidate_data_path='', output_path='../data/NQ/mem3_neg5_cfg1_repeat2_llama2.json', config_path='./configs/config1.json', qa_repeat_times=2, eos_token='</s>', max_content_length=None)
+config: [{'title_candidate': False, 'title': True, 'content_prefix': False, 'content_all': False, 'answer': False, 'ratio': 1}, {'title_candidate': True, 'title': True, 'content_prefix': True, 'content_all': False, 'answer': True, 'ratio': 1}, {'title_candidate': True, 'title': True, 'content_prefix': False, 'content_all': False, 'answer': False, 'ratio': 1}, {'title_candidate': True, 'title': False, 'content_prefix': False, 'content_all': False, 'neg': True, 'answer': True, 'ratio': 1}, {'title_candidate': True, 'title': False, 'content_prefix': True, 'content_all': False, 'answer': True, 'ratio': 1}]
+qa_data: 489654
+final_qa_data: 87271
+final_train_data: 4671960
+======================
